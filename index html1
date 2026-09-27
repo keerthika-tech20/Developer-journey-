@@ -1,12 +1,46 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>
-      My First Step in My Life </title>
-  </head>
-  <body>
-    <h1> Hello success </h1>
+<head>
+    <title>My Web Development Journey</title>
+</head>
+
+<body>
+
+    <h1>My Web Development Journey</h1>
+
+    <hr>
+
+    <h2>About Me</h2>
+
     <p>
-      I'm waiting for you </p>
-  </body>
+        Hello! My name is Keerthika.<br>
+        I am learning web development and I want to become a software developer.
+    </p>
+
+    <h2>My Skills</h2>
+
+    <ul>
+        <li><b>HTML</b></li>
+        <li><i>CSS</i></li>
+        <li>JavaScript</li>
+    </ul>
+
+    <h2>My Learning Goals</h2>
+
+    <ol>
+        <li>Learn HTML completely</li>
+        <li>Learn CSS and create beautiful websites</li>
+        <li>Learn JavaScript and make websites interactive</li>
+    </ol>
+
+    <hr>
+
+    <h2>My Motivation</h2>
+
+    <p>
+        <b>Keep learning!</b><br>
+        <i>Every day is a new step towards success.</i>
+    </p>
+
+</body>
 </html>
