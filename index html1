@@ -41,6 +41,19 @@
         <b>Keep learning!</b><br>
         <i>Every day is a new step towards success.</i>
     </p>
+    <h2>Useful Link</h2>
+
+    <p>
+        Visit my
+        <a href="https://github.com/keerthika-tech20">
+            GitHub Profile
+        </a>
+    </p>
+
+    <h2>My Profile</h2>
+
+    <img src="https://via.placeholder.com/200"
+         alt="My profile image">
 
 </body>
 </html>
